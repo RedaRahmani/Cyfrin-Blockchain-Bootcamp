@@ -2,6 +2,7 @@
 remappings = [
     "@chainlink/contracts=lib/chainlink-brownie-contracts/contracts"
 ]
+ffi = true
 
 src = "src"
 out = "out"
